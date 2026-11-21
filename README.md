@@ -6,4 +6,4 @@ interface.sv
 monitor.sv
 scoreboard.sv
 test.sv
-transavtion.sv
+transaction.sv
