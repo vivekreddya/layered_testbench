@@ -8,8 +8,7 @@ class generator;
     endfunction
 
     task main();
-        // Generate eight transactions for the eight possible input combinations.
-        // Inputs are randomized; this does not guarantee all eight combinations occur.
+       
         repeat(8)
         begin
             trans = new();
