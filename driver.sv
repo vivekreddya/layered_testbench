@@ -18,7 +18,7 @@ class driver;
             vif.b   <= trans.b;
             vif.cin <= trans.cin;
 
-            // Allow the DUT and monitor to observe this transaction.
+        
             #5;
             trans.sum   = vif.sum;
             trans.carry = vif.carry;
