@@ -1,3 +1,6 @@
+//SRN:PES2UG24EC152
+//NAME:VIVEK REDDY A
+
 `include "interface.sv"
 `include "test.sv"
 
